@@ -9,7 +9,7 @@ Before you can run this project, you need to have Node.js and npm installed on y
 
 Installing
 Clone this repository to your local machine using:
-git clone https://github.com/yourusername/vue-login-example.git
+git clone https://github.com/L65FREAD/coding-challenge.git
 
 Install the project dependencies by running:
 npm install
