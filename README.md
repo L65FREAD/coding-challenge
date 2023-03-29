@@ -1,4 +1,3 @@
-Sure, here's an example README that explains how to run the project locally:
 
 Vue.js Login Example
 This is a simple login example built with Vue.js and Axios.
